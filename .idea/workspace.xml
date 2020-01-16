@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c55b52fb-5264-4428-8774-46a8c315c50a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScanExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScanExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1WSsRc8VONCO3BxjT8KMR9rRuT9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -77,5 +77,25 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="720" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1579154509329" />
+    <state width="1815" height="187" key="GridCell.Tab.0.bottom" timestamp="1579162810796">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="187" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1579162810796" />
+    <state width="1815" height="187" key="GridCell.Tab.0.center" timestamp="1579162810796">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="187" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1579162810796" />
+    <state width="1815" height="187" key="GridCell.Tab.0.left" timestamp="1579162810796">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="187" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1579162810796" />
+    <state width="1815" height="187" key="GridCell.Tab.0.right" timestamp="1579162810796">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="187" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1579162810796" />
+    <state x="802" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579164109160">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="802" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1858.1080@62.0.1858.1080" timestamp="1579164109160" />
   </component>
 </project>
