@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class MyRandom {
+public class RandomExample {
     private int randomInt;
     private double randomDouble;
 
